@@ -24,8 +24,8 @@ A responsive QR code component card built with HTML and CSS. The component featu
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/your-solution-url)
-- Live Site URL: [GitHub Pages](https://your-username.github.io/qr-code-component/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-page-using-html-and-css-ZLbvt6oSar)
+- Live Site URL: [Versel](https://qr-code-challenge-wheat.vercel.app/)
 
 ## My process
 
