@@ -30,6 +30,10 @@ body
     width: 100%;
     border-radius: 10px;
     margin-bottom: 24px;
+    transition: transform 0.3s ease;
+}
+.card img:hover{
+    transform: scale(1.05);
 }
 .card h1
 {
